@@ -98,3 +98,7 @@
         height: 50%;
         width: 50%;
       }
+      .footer {
+       height: 40px;
+       padding: 5px;
+      }
