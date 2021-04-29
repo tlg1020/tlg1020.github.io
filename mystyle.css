@@ -153,8 +153,13 @@
         text-align: center;
       }
       .meetthegroomer_intro {
-        justify-content: center;
-        font-size: 300%;
+        font-size: 3.25em;
+        line-height: 1.5em;
+        width: 100%;
+        margin: auto;
+        padding: 40px;
+        background-color: #0000FF;
+        color: white;
       }
       .w3-row-padding img {
         margin-bottom: 12px;
